@@ -1,4 +1,6 @@
-To run the application
+This application integrates different methods and implements advanced features of Javascript.
+
+To run the application:
 
 Run in the cmd: http-server and localhost:8080 in the browser
 
